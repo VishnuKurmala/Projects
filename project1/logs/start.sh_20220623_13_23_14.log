@@ -1,0 +1,12 @@
+Table tbl_project1_day created successfully
+Day_1.csv loaded to table successfully
+Data ingested to HDFS /user/saif/project1/Input/tbl_project1_day successfully
+Table mngtbl created successfully
+Data loaded to hive managed table successfully
+Table scdtbl created successfully
+Data inserted to hive SCD table successfully
+Table stgtbl created successfully
+Data inserted to hive Staging table successfully
+Table Reconciliation created successfully
+Data exported to re_tbl table  in SQL successfully
+No equal records
